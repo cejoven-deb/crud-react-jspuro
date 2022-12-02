@@ -79,10 +79,6 @@ this.setState({ name: "", email: "", rollno: "" });
                   />
               </Form.Group>
 
-              <Form.Group controlId="Name">
-                  <Form.Label>Contraseña</Form.Label>
-                  <Form.Control type="text" />
-              </Form.Group>
               <br></br>
               <button type="button" class="btn btn-success">
                   Crear Estudiante..
